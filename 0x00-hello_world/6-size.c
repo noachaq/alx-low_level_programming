@@ -1,4 +1,5 @@
 #include <stdio.h>
+
 int main(void)
 {
 	printf("Size of a char: %lu byte(s)\n", sizeof(char));
